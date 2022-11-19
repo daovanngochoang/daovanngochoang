@@ -15,3 +15,5 @@
             7. Design Patterns|Software design principles|Architectures: I understand quite good the Design Patterns and priciples as well as architect such as       Microservices, Event-driven architect.
 - ✈️ In the Future: I want to enhance my skills and be a expert in the software engineer world, i want to work in a big company in the Backend developer| Data engineer|Solution Architecture position.
 - 🔖 My works: Several Web app such easyIOT, A ecomercial clothing website ...
+
+
