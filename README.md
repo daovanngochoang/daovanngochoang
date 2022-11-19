@@ -151,14 +151,10 @@ company in the Backend developer| Data engineer|Solution Architecture position.
       
 
 
-[![My's GitHub activity
-graph](https://activity-graph.herokuapp.com/graph?username=daovanngochoang&&theme=xcode)](https://github.com/daovanngochoang)
 
+[![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=daovanngochoang&&theme=xcode)](https://github.com/daovanngochoang)
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=daovanngochoang&show_icons=true&locale=en&layout=compact"
-        alt="daovanngochoang" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daovanngochoang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daovanngochoang" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=daovanngochoang&show_icons=true&locale=en"
-        alt="daovanngochoang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daovanngochoang&show_icons=true&locale=en&theme=tokyonight" alt="daovanngochoang" /></p>
+
