@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-- 🔭 I’m currently a last-year CS student in Tan Tao University.
+- 🔭 I’m currently a final year CS student in Tan Tao University.
 
 - 🌱 I’m currently learning .NET core for web development and BigData architect, tools, machine learning.
 
