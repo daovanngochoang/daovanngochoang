@@ -1,6 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/daovanngochoang/daovanngochoang/main/687474~1.JPG)
-<h1 align="center">Hello There !!</h1>
-<h4 align="center">A passionate developer from HCM VietNam</h4>
+
+# :penguin: Dao Van Ngoc Hoang 
+	
 
 <h2>About me</h2>
 
@@ -24,6 +25,8 @@ company in the Backend developer| Data engineer|Solution Architecture position.
 	1. **https://github.com/ngochoangdaovan**
 	2. **https://github.com/andreas230601**
 
+
+
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
     <a href="https://dev.to/daovanngochoang" target="blank"><img align="center"
@@ -46,7 +49,12 @@ company in the Backend developer| Data engineer|Solution Architecture position.
 </p>
 
 
+
+
 ## My Skills
+
+### Languages and Tools
+
 
 1. **Strong fundamental understanding about programming language.**
     - Most used languages: C#, Python, Scala, Nodejs.
