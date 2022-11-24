@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/daovanngochoang/daovanngochoang/main/687474~1.JPG)
 
-# :penguin: Dao Van Ngoc Hoang 
+# :penguin: Đào Văn Ngọc Hoàng 
 	
 
 <h2>About me</h2>
@@ -53,36 +53,34 @@ company in the Backend developer| Data engineer|Solution Architecture position.
 
 ## My Skills
 
-### Languages and Tools
 
-
-1. **Strong fundamental understanding about programming language.**
+1. ⚖️ **Strong fundamental understanding about programming language.**
     - Most used languages: C#, Python, Scala, Nodejs.
     - Used to learned: C/C++, Java, Shell script.
     - Frameworks: .NET6, ExpressJs.
 
-2. **Databases:** 
+2. 📋 **Databases:** 
       - I understand and can work with many databases such as: for SQL databases are MySQL|MSSQL, NoSQL such as MongoDB, Cassandra ... 
       - I can analyze and apply database usage based on real-life situations to answer what, where, and why questions, such as using SQL databases to design flexible database system when we don't have specific access pattern or NoSQL such as DynamoDB to scale horizontally and read rate (faster read load) with specific data access pattern or Redis for caching...
       
-3. **Docker and Linux:** 
+3. 🔲 **Docker and Linux:** 
       - I can setup and config linux machine (which i use as my daily driver for 2 years) and containerize code with docker, kunebetes.
       - Configure linux server, config distributed machines ...
       
-4. **Cloud:** 
+4. 🌥️ **Cloud:** 
       - I have a little experience working on AWS services such as EC2, S3, Lambda, ... 
       - Understand cloud tools, solutions and applying them to specific senarios.
 
       
-5. **Language:** I can communicate using English and I can talk to people friendly and easily so that i have no doubt with group working.
+5. 🗣️ **Language:** I can communicate using English and I can talk to people friendly and easily so that i have no doubt with group working.
       
-6. **Machine|Deep learning:** 
+6. 🤖 **Machine|Deep learning:** 
       - I have a fundamental understanding of machine/deep learning.
       - I can use Tensorflows|Pytorch to build model such Computer vision with CNN, machine learning, pandas, ... 
       - I can discuss and help the other teamates in communication or even join working with them.
       - I can read research paper in this field to figure out needed solutions.
 
-7. **Distributed Cloud Computing With**: Hadoop, Spark, Kafka, Redis.
+7. 🌩️ **Distributed Cloud Computing With**: Hadoop, Spark, Kafka, Redis.
       
 
 
