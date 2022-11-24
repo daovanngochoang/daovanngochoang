@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/daovanngochoang/daovanngochoang/main/687474~1.JPG)
+![MasterHead](https://raw.githubusercontent.com/daovanngochoang/daovanngochoang/main/981872.jpg)
 
 # :penguin: Đào Văn Ngọc Hoàng 
 	
