@@ -5,18 +5,11 @@
 
 <h2>About me</h2>
 
-- 🔭 I’m a final year CS student in Tan Tao University.
+- 👯 I'm currently a FullStack developer (Backend, Web Front end & Mobile).
 
-- 🌱 I’m currently learning .NET core for web development and BigData architect, tools, machine learning.
+- 👨‍💻 As a passionate and driven developer, I am constantly seeking new challenges and opportunities to expand my knowledge and expertise. With a keen eye for the latest trends and technologies, I stay ahead of the curve and am always pushing the boundaries of what is possible. With strong skills in a wide range of programming languages and a commitment to continuous learning, I am a valuable asset to any team and am always striving to deliver the best possible results. Whether you need a talented developer to help bring your ideas to life or a dedicated team member to help drive your business forward, I have the skills, experience, and dedication you need to succeed.
 
-- 👯 I'm looking for a job or an internship, I can work with almost any language but I prefer to be .NET core web developer or a Data Engineer working with apache frameworks and scala/python.
-
-- 👨‍💻 I'm an enthusiastic developer, I'm using and coding confidently on Linux, I like to read books to enhance my skill set, manage time to have 10 hours a day to study, and like to learn and apply what I've learned to practice rather than getting the knowledge and let them be forgotten that for me a waste of time.
-
-- ✈️ In the Future: I want to enhance my skills and be an expert in the software engineering world, I want to work in a big
-company in the Backend developer| Data engineer|Solution Architecture position.
-
-- 🔖 My works: Several Web app such EasyIOT, A ecomercial clothing website ...
+I am an experienced software developer with a strong track record of building REST APIs using cutting-edge frameworks such as Spring Boot, Reactive WebFlux ..., Additionally, I have extensive experience in developing custom Odoo plugins for ERP applications. My expertise in these areas enables me to create robust, scalable, and reliable web applications that meet the needs of businesses of all sizes and industries.
 
 - 📫 How to reach me _**hoangdao.dev@gmail.com**_
 
@@ -60,19 +53,19 @@ company in the Backend developer| Data engineer|Solution Architecture position.
     - Frameworks: .NET6, ExpressJs.
 
 2. 📋 **Databases:** 
-      - I understand and can work with many databases such as: for SQL databases are MySQL|MSSQL, NoSQL such as MongoDB, Cassandra ... 
+      - MySQL|PosgreSQL, MongoDB, Cassandra ... 
       - I can analyze and apply database usage based on real-life situations to answer what, where, and why questions, such as using SQL databases to design flexible database system when we don't have specific access pattern or NoSQL such as DynamoDB to scale horizontally and read rate (faster read load) with specific data access pattern or Redis for caching...
       
 3. 🔲 **Docker and Linux:** 
-      - I can setup and config linux machine (which i use as my daily driver for 2 years) and containerize code with docker, kunebetes.
+      - I can setup and config linux machine (which i use as my daily driver for 5 years) and containerize code with docker, kunebetes...
       - Configure linux server, config distributed machines ...
       
 4. 🌥️ **Cloud:** 
       - I have a little experience working on AWS services such as EC2, S3, Lambda, ... 
       - Understand cloud tools, solutions and applying them to specific senarios.
+      - Currently i'm learning GPC Cloud Architect Path in order to earn the GCP cert.
 
-      
-5. 🗣️ **Language:** I can communicate using English and I can talk to people friendly and easily so that i have no doubt with group working.
+5. 🗣️ **Language:** English.
       
 6. 🤖 **Machine|Deep learning:** 
       - I have a fundamental understanding of machine/deep learning.
