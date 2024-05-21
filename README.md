@@ -26,13 +26,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daovanngochoang&show_icons=true&locale=en&theme=tokyonight" alt="daovanngochoang" /></p>
 
 
-- 📫 How to reach me _**hoangdao.dev@gmail.com**_
+📫 **How to reach me**: _**hoangdao.dev@gmail.com**_
 
-- 👴 My old githubs: 
+👴 **My old githubs**:
+> 1. **https://github.com/ngochoangdaovan**
+> 2. **https://github.com/andreas230601**
 
-	1. **https://github.com/ngochoangdaovan**
-	2. **https://github.com/andreas230601**
-<h3 align="left">Connect with me via:</h3>
+## Connect with me via:
 
 <p align="left">
     <a href="https://dev.to/daovanngochoang" target="blank"><img align="center"
