@@ -9,16 +9,31 @@
 
 - 👨‍💻 As a passionate and driven developer, I am constantly seeking new challenges and opportunities to expand my knowledge and expertise. With a keen eye for the latest trends and technologies, I stay ahead of the curve and am always pushing the boundaries of what is possible. With strong skills in a wide range of programming languages and a commitment to continuous learning, I am a valuable asset to any team and am always striving to deliver the best possible results. Whether you need a talented developer to help bring your ideas to life or a dedicated team member to help drive your business forward, I have the skills, experience, and dedication you need to succeed. I am an experienced software developer with a strong track record of building REST APIs using cutting-edge frameworks such as Spring Boot, Reactive WebFlux ..., Additionally, I have extensive experience in developing custom Odoo plugins for ERP applications. My expertise in these areas enables me to create robust, scalable, and reliable web applications that meet the needs of businesses of all sizes and industries.
 
+## My Skills
+1. **Programming language**s: Go, Python, Java, Nodejs.
+2. **Database**:
+> - NoSQL database: Mongodb, BigTable, InfluxDB ...
+> - Relational DB: PostgreSQL
+> - VectorDB: Weaviate, Milvus, pgvector ..
+> - Graph DB: Neo4J
+3. **Cloud**: GCP, Aws.
+4. **Virtualization**: Docker, Linux, Kubernetes.
+5. **Distributed Bigdata Processing**: Hadoop, Spark, Kafka, Delta Lake.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daovanngochoang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daovanngochoang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daovanngochoang&show_icons=true&locale=en&theme=tokyonight" alt="daovanngochoang" /></p>
+
+
 - 📫 How to reach me _**hoangdao.dev@gmail.com**_
 
 - 👴 My old githubs: 
 
 	1. **https://github.com/ngochoangdaovan**
 	2. **https://github.com/andreas230601**
-
-
-
 <h3 align="left">Connect with me via:</h3>
+
 <p align="left">
     <a href="https://dev.to/daovanngochoang" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
@@ -38,26 +53,4 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="im.andreas21" height="30" width="40" /></a>
 </p>
-
-
-
-
-## My Skills
-1. **Programming language**s: Go, Python, Java, Nodejs.
-2. **Database**:
-> - NoSQL database: Mongodb, BigTable, InfluxDB ...
-> - Relational DB: PostgreSQL
-> - VectorDB: Weaviate, Milvus, pgvector ..
-> - Graph DB: Neo4J
-3. **Cloud**: GCP, Aws.
-4. **Virtualization**: Docker, Linux, Kubernetes.
-5. **Distributed Bigdata Processing**: Hadoop, Spark, Kafka, Delta Lake.
-
-
-
-[![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=daovanngochoang&&theme=xcode)](https://github.com/daovanngochoang)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daovanngochoang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daovanngochoang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daovanngochoang&show_icons=true&locale=en&theme=tokyonight" alt="daovanngochoang" /></p>
 
