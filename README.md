@@ -12,13 +12,15 @@
 ## My Skills
 1. **Programming language**s: Go, Python, Java, Nodejs.
 2. **Database**:
-> - NoSQL database: Mongodb, BigTable, InfluxDB ...
+> - NoSQL database: MongoDB, BigTable, InfluxDB ...
 > - Relational DB: PostgreSQL
 > - VectorDB: Weaviate, Milvus, pgvector ..
 > - Graph DB: Neo4J
 3. **Cloud**: GCP, Aws.
 4. **Virtualization**: Docker, Linux, Kubernetes.
 5. **Distributed Bigdata Processing**: Hadoop, Spark, Kafka, Delta Lake.
+6. **AI**: Machine learning, DeepLearning (NLP, Computer vision).
+7.  **Elastic Stack**: Elastic Search, Kibana, Logstack
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daovanngochoang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daovanngochoang" /></p>
