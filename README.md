@@ -30,10 +30,6 @@
 
 📫 **How to reach me**: _**hoangdao.dev@gmail.com**_
 
-👴 **My old githubs**:
-> 1. **https://github.com/ngochoangdaovan**
-> 2. **https://github.com/andreas230601**
-
 ## Connect with me via:
 
 <p align="left">
